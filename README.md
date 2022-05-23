@@ -2,7 +2,7 @@
 
 #### Feedget is a full stack web project of a widget that collects feedback.
 
-> This project was made in order to train the construction of a responsive and accessible component with React on the frontend using tools like tailwind. It was also carried out the construction of a Backend using tests and SOLID pattern
+> This project was made in order to train the construction of a responsive and accessible component with React on the frontend using tools like tailwind. It was also carried out the construction of a backend using tests and SOLID pattern
 
 ![](/img/1.png)
 ![](/img/2.png)
