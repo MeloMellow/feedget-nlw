@@ -23,4 +23,15 @@ Now you can run the frontend using the following command in the same folder:
 ```npm
 npm run dev
 ```
-To run the backend you first need to install the dependencies inside the **server** folder this time and then create a .env file that will contain the database URL:
+To run the backend you first need to install the dependencies inside the **server** folder this time
+```npm
+npm install
+```
+and then create a file called **.env** in the same folder that will contain the database URL:
+```npm
+DATABASE_URL="file:./dev.db"
+```
+Now you can run the backend using the following command in the same folder:
+```npm
+npm run dev
+```
